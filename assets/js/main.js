@@ -218,11 +218,11 @@ const sr = ScrollReveal({
 });
 
 /* Scroll */
-sr.reveal('.about__typing',{delay: 400});
+// sr.reveal('.about__typing',{delay: 400});
 
-var typed = new Typed(".typing", {
-  strings: ["Project Manager", "Designer", "Quality Assurance Manager", "Product Manager"],
-  typeSpeed: 70,
-  backSpeed: 40,
-  loop: true
-});
+// var typed = new Typed(".typing", {
+//   strings: ["Project Manager", "Designer", "Supply Chain Manager" , "Business Analyst", "Quality Assurance Manager", "Product Manager"],
+//   typeSpeed: 70,
+//   backSpeed: 40,
+//   loop: true
+// });
